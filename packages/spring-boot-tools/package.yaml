@@ -9,7 +9,7 @@ licenses: [EPL-1.0]
 languages: [Java]
 categories: [LSP]
 source:
-  id: pkg:openvsx/VMware/vscode-spring-boot@1.56.0
+  id: pkg:openvsx/VMware/vscode-spring-boot@1.57.0
   download:
     file: VMware.vscode-spring-boot-{{version}}.vsix
 share:
