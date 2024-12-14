@@ -18,7 +18,7 @@ This project includes java related libraries, runtimes etc... that is not availa
   'williamboman/mason.nvim',
   opts = {
     registries = {
-      'github:nvim-java/mason-registry',
+      'github:bmihovski/mason-registry',
       'github:mason-org/mason-registry',
     },
   },
